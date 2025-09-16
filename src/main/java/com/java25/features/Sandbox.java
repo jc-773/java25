@@ -5,7 +5,8 @@ import org.slf4j.LoggerFactory;
 
 public class Sandbox {
 
-    /* StableValye example */
+    /* StableValue example */
+    
     /*
      * As we know, in Java, if you want something that is set only once and never changed, you use final
      * 
